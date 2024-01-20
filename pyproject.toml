@@ -23,5 +23,5 @@ ci = [
 	"vulture",
 	"xenon",
 	"mypy",
-	"flake8",
+	"flake8"
 ]
